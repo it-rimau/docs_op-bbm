@@ -23,7 +23,7 @@
   * [TOP-1000 BBM](daftar-isi/laporan-bbm/top-1000-bbm.md)
   * [Per Kendaraan](daftar-isi/laporan-bbm/per-kendaraan.md)
   * [Tipe Kendaraan](daftar-isi/laporan-bbm/tipe-kendaraan.md)
-  * [Gruop Kendaraan](daftar-isi/laporan-bbm/gruop-kendaraan.md)
+  * [Group Kendaraan](daftar-isi/laporan-bbm/gruop-kendaraan.md)
   * [Department](daftar-isi/laporan-bbm/department.md)
   * [Semua Kendaraan](daftar-isi/laporan-bbm/semua-kendaraan.md)
 * [Maintenance](daftar-isi/maintenance.md)
